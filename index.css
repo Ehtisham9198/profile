@@ -12,9 +12,10 @@ body{
 .sub{
    
     color: #ff0000;
-    margin-left: 2.2cm; 
+    margin-left: 3cm;
+    text-decoration: underline;
     
 }
 .list{
-    margin-left: 0.3cm;
+    margin-left: 1cm;
 }
