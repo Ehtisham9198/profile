@@ -5,10 +5,16 @@ body{
     color: #ff0000;
    
     text-decoration:underline;
-    font-family:'Times New Roman', Times, serif
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 12cm;
     
 }
 .sub{
    
     color: #ff0000;
+    margin-left: 12cm;
+    
+}
+.list{
+    margin-left: 6cm;
 }
