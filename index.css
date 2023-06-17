@@ -1,0 +1,14 @@
+body{
+    background-color:#bde3f3;
+}
+.name{
+    color: #ff0000;
+   
+    text-decoration:underline;
+    font-family:'Times New Roman', Times, serif
+    
+}
+.sub{
+   
+    color: #ff0000;
+}
