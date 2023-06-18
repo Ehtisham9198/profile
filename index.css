@@ -9,7 +9,7 @@ body{
 
     border: solid;
     border-radius: 10px;
-    width: 240px;
+    width: 260px;
     padding-left: 17px;
     border-color: #0f0f0f;
     background-color: rgb(255, 247, 0);
@@ -20,7 +20,7 @@ body{
     color: #ff0000;
     border: solid;
     border-radius: 10px;
-    width: 290px;
+    width: 300px;
     padding-left: 10px;
     border-color: #0f0f0f;
     background-color: rgb(171, 178, 160);
@@ -31,7 +31,7 @@ body{
     margin-left: 3cm;
     border: solid;
     border-radius: 10px;
-    width: 190px;
+    width: 220px;
     padding-left: 10px;
     border-color: #0f0f0f;
     background-color: rgb(149, 255, 0);
@@ -42,6 +42,16 @@ body{
     border: solid;
     border-radius: 10px;
     width: 80px;
+    padding-left: 10px;
+    border-color: #0f0f0f;
+    background-color: rgb(149, 255, 0);
+}
+.subho{
+    color: #ff0000;
+    margin-left: 3cm;
+    border: solid;
+    border-radius: 10px;
+    width: 100px;
     padding-left: 10px;
     border-color: #0f0f0f;
     background-color: rgb(149, 255, 0);
@@ -71,7 +81,7 @@ body{
     margin-left: 3cm;
     border: solid;
     border-radius: 10px;
-    width: 120px;
+    width: 140px;
     padding-left: 13px;
     border-color: #131312;
     background-color: rgb(149, 255, 0);
