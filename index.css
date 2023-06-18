@@ -17,11 +17,78 @@ body{
     
 }
 .list{
-    margin-left: 0.65cm;
+    margin-left: 0.7cm;
+}
+.list{
+    margin-left: 0.5cm;
+}
+.img{
+        border-style: solid;
+        margin-left: 0.7cm;
+        border-color: rgba(255, 0, 0, 0.605);
+        border-radius: 12px;
+        margin-left: 75px;
+
 }
 .list2{
     margin-left: 0.8cm;
+    border: #9cd90dd8 ;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 3px;
+    width: 300px;
+    background-color: hsla(240, 95%, 60%, 0.644);
+    
+    padding: 10px;
+    margin-top: 30px;
 }
-.list1{
+.edulist{
+    border: #9cd90dd8 solid;
+    background-color: hsla(240, 95%, 60%, 0.644);
     margin-left: 0.7cm;
+    border-radius: 10px;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.listwork{
+border: #9cd90dd8 solid;
+background-color: hsla(240, 95%, 60%, 0.644);
+margin-left: 0.7cm;
+border-radius: 10px;
+width: 300px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 14px;
+}
+.listskill{
+    border: #9cd90dd8 solid;
+background-color: hsla(240, 95%, 60%, 0.644);
+margin-left: 0.7cm;
+border-radius: 10px;
+width: 300px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 14px;
+}
+.listextra{
+    border: #9cd90dd8 solid;
+    background-color: hsla(240, 95%, 60%, 0.644);
+    margin-left: 0.7cm;
+    border-radius: 10px;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 14px; 
+}
+.listhobies{
+    border: #9cd90dd8 solid;
+    background-color: hsla(240, 95%, 60%, 0.644);
+    margin-left: 0.7cm;
+    border-radius: 10px;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 14px;   
 }
