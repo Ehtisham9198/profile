@@ -4,10 +4,49 @@ body{
 .name{
     color: #ff0000;
    
-    text-decoration:underline;
     font-family:'Times New Roman', Times, serif;
-    margin-left: 2cm;
+    margin-left: 7cm;
+
+    border: solid;
+    border-radius: 10px;
+    width: 240px;
+    padding-left: 17px;
+    border-color: #0f0f0f;
+    background-color: rgb(255, 247, 0);
+
     
+}
+.list4{
+    color: #ff0000;
+    border: solid;
+    border-radius: 10px;
+    width: 290px;
+    padding-left: 10px;
+    border-color: #0f0f0f;
+    background-color: rgb(171, 178, 160);
+    margin-left: 6.5cm;
+    margin-bottom: 1cm;
+
+}
+.subwork{ 
+    color: #ff0000;
+    margin-left: 3cm;
+    border: solid;
+    border-radius: 10px;
+    width: 190px;
+    padding-left: 10px;
+    border-color: #0f0f0f;
+    background-color: rgb(149, 255, 0);
+}
+.subskil{
+    color: #ff0000;
+    margin-left: 3cm;
+    border: solid;
+    border-radius: 10px;
+    width: 80px;
+    padding-left: 10px;
+    border-color: #0f0f0f;
+    background-color: rgb(149, 255, 0);
 }
 .sub{
    
@@ -16,18 +55,35 @@ body{
     text-decoration: underline;
     
 }
+.subedu{
+    color: #ff0000;
+    margin-left: 3cm;
+    border: solid;
+    border-radius: 10px;
+    width: 120px;
+    padding-left: 13px;
+    border-color: #131312;
+    background-color: rgb(149, 255, 0);
+}
+.about{
+    color: #ff0000;
+    margin-left: 5cm;
+    border: solid;
+    border-radius: 10px;
+    width: 120px;
+    padding-left: 13px;
+    border-color: #131312;
+    background-color: rgb(149, 255, 0);
+}
 .list{
     margin-left: 0.7cm;
 }
-.list{
-    margin-left: 0.5cm;
-}
+
 .img{
         border-style: solid;
-        margin-left: 0.7cm;
         border-color: rgba(255, 0, 0, 0.605);
         border-radius: 12px;
-        margin-left: 75px;
+        margin-left: 100px;
 
 }
 .list2{
@@ -91,4 +147,32 @@ padding-right: 14px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 14px;   
+}
+.container {
+    display: flex;
+    width: 100%;
+}
+.container1{
+    display: flex;
+    width: 100%;
+}
+.edu{
+    margin-left: 5cm;
+    margin-top: 1.5cm;
+}
+.container2{
+    display: flex;
+    width: 100%;
+}
+.me{
+    border: #9cd90dd8 solid;
+    background-color: hsla(240, 95%, 60%, 0.644);
+    margin-left: 0.7cm;
+    border-radius: 10px;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 14px; 
+    padding-left: 10px; 
+    margin-left: 100px;  
 }
