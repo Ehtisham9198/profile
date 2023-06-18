@@ -5,7 +5,7 @@ body{
     color: #ff0000;
    
     font-family:'Times New Roman', Times, serif;
-    margin-left: 7cm;
+    margin-left: 2cm;
 
     border: solid;
     border-radius: 10px;
@@ -24,8 +24,6 @@ body{
     padding-left: 10px;
     border-color: #0f0f0f;
     background-color: rgb(171, 178, 160);
-    margin-left: 6.5cm;
-    margin-bottom: 1cm;
 
 }
 .subwork{ 
@@ -55,19 +53,22 @@ body{
     text-decoration: underline;
     
 }
-.subedu{
+.about{
     color: #ff0000;
     margin-left: 3cm;
+    margin-top: 50px;
+    margin-bottom: 0px;
     border: solid;
     border-radius: 10px;
     width: 120px;
     padding-left: 13px;
     border-color: #131312;
-    background-color: rgb(149, 255, 0);
+    background-color: rgb(149, 255, 0)
+    
 }
-.about{
+.subedu{
     color: #ff0000;
-    margin-left: 5cm;
+    margin-left: 3cm;
     border: solid;
     border-radius: 10px;
     width: 120px;
@@ -148,22 +149,7 @@ padding-right: 14px;
     padding-bottom: 10px;
     padding-right: 14px;   
 }
-.container {
-    display: flex;
-    width: 100%;
-}
-.container1{
-    display: flex;
-    width: 100%;
-}
-.edu{
-    margin-left: 5cm;
-    margin-top: 1.5cm;
-}
-.container2{
-    display: flex;
-    width: 100%;
-}
+
 .me{
     border: #9cd90dd8 solid;
     background-color: hsla(240, 95%, 60%, 0.644);
@@ -174,5 +160,5 @@ padding-right: 14px;
     padding-bottom: 10px;
     padding-right: 14px; 
     padding-left: 10px; 
-    margin-left: 100px;  
+    margin-left: 300p;  
 }
